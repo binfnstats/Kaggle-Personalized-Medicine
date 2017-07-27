@@ -4,7 +4,7 @@ Based on the Kaggle competition found here: https://www.kaggle.com/c/msk-redefin
 Concepts explored:
 
 <ol> 
-</li> Data Cleaning/Munging  </li>
+<li> Data Cleaning/Munging  </li>
 <li> Feature Engineering/Selection
 <ul>
 <li> Chi Squared Test </li>
