@@ -3,15 +3,16 @@ Based on the Kaggle competition found here: https://www.kaggle.com/c/msk-redefin
 
 Concepts explored:
 
-1. Data Cleaning/Munging
-2. Feature Engineering/Selection
+<ol> 
+</li> Data Cleaning/Munging  </li>
+<li> Feature Engineering/Selection
 <ul>
 <li> Chi Squared Test </li>
-</ul>
-3. Word Vector representations
-4. Document Vector representations
-5. TFIDF vectorization
-6. Machine Learning algorithms explored:
+</ul> </li>
+<li> Word Vector representations </li>
+<li> Document Vector representations </li>
+<li> TFIDF vectorization </li>
+<li> Machine Learning algorithms explored:
 <ul>
 <li> Support Vector Machine </li>
 	<li> Naive Bayes </li>
@@ -19,10 +20,10 @@ Concepts explored:
 	<li> Logistic Regression </li>
 	<li> XGBoost </li>
 	<li> Gradient Boosting Machine </li>
-</ul>
-7. Model Scoring/Metrics
+</ul> </li>
+<li> Model Scoring/Metrics
 <ul>
 <li> Weighted F1 Scores </li>
 <li> Precision /Recall </li>
 <li> Confusion Matrix </li>
-</ul>
+</ul> </li>
